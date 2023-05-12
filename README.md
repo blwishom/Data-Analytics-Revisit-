@@ -1,6 +1,6 @@
 # Data-Analytics
 
-This Data Analysis uses the Kaggle API and Sqlite to download a dataset from Kaggle and upload it to a SQL database. From there the data is cleaned in Notebook1 and analysed in Notebook2 using Pandas, Numpy, Seaborn and more.
+This Data Analysis uses the Kaggle API and Sqlite to download a dataset from Kaggle and upload it to a SQL database. From there the data is cleansed in Notebook1 and analysed in Notebook2 using Pandas, Numpy, Seaborn and more.
 
 ## Directions to Edit or Download Database
 
