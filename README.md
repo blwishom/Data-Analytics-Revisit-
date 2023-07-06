@@ -11,3 +11,6 @@ This Data Analysis uses the Kaggle API and Sqlite to download a dataset from Kag
 
 ## Tableau Dashboard
 ![Dashboard_Sumana](https://github.com/Jessie-Baron/Data-Analytics/assets/101578812/b173fb32-8cc8-4ba7-ab5b-3eb627fe5351)
+
+## Tableau Dashboard 2
+https://public.tableau.com/app/profile/blair.wishom/viz/GlobalSuperstoreVisuals_16880509294680/Dashboard2
