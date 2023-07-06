@@ -14,3 +14,5 @@ This Data Analysis uses the Kaggle API and Sqlite to download a dataset from Kag
 
 ## Tableau Dashboard 2
 https://public.tableau.com/app/profile/blair.wishom/viz/GlobalSuperstoreVisuals_16880509294680/Dashboard2
+![Screenshot (564)](https://github.com/blwishom/Data-Analytics-Revisit-/assets/79879124/4d48bcec-2fd7-42b5-ace6-a4b663aa7808)
+![Screenshot (563)](https://github.com/blwishom/Data-Analytics-Revisit-/assets/79879124/cf16ec12-9c5d-4e5e-861b-2d616adb20b7)
